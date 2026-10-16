@@ -1,7 +1,7 @@
 # Research Metadata
 
 ## 1. Project & Course Info
-- **Topic / Title:** The Impact of Digital Spending Feedback on Online Purchase Decision-Making among Gen Z.
+- **Topic / Title:** The Effect of Real-Time Digital Budget Feedback on Online Purchase Intention among Gen Z Consumers.
 - **Course ID & Name:** Undergraduate Graduation Thesis
 - **Institution & Department:** VNU International School – Vietnam National University, Hanoi 
 - **Semester / Year:**  Semester 1, Year 2026–2027
@@ -29,9 +29,10 @@
 ---
 
 ## 4. Research Scope & Questions
-- **Keywords:** Digital Spending Feedback, Generation Z, Consumer Behavior, E-commerce.
-- **Core Research Question (RQ):** How does digital spending feedback influence online purchase decision-making among Generation Z consumers?
+- **Keywords:** Real-Time Digital Budget Feedback, Online Purchase Intention, Generation Z, Consumer Behavior, Digital Budgeting.
+- **Core Research Question (RQ):** How does real-time digital budget feedback affect online purchase intention among Generation Z consumers?
 - **Research Approach:** Quantitative Research.
 - **Data Collection Method:** Structured Online Questionnaire Survey.
+- **Target Population:** Generation Z consumers who engage in online shopping.
 - **Data Analysis Tool:** STATA.
-- **Expected Deliverable:** An undergraduate graduation thesis examining the influence of digital spending feedback on online purchase decision-making among Generation Z consumers.
+- **Expected Deliverable:** Undergraduate thesis on the effect of real-time digital budget feedback on online purchase intention among Gen Z consumers.
