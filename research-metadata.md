@@ -13,6 +13,7 @@
 ## 2. Team Members
 
 | Student ID | Full Name | Academic Email | Role / Responsibility |
+| :-: | :--- | :---: | :---: |
 | 23070294 | Vũ Thị Tú Anh | 23070294@vnu.edu.vn | Independent Researcher – Literature Review, Research Design, Survey Development, Data Collection, Statistical Analysis, and Thesis Writing |
 
 ---
